@@ -39,9 +39,9 @@ Spotify
 -->
 
 <div align="center">
-  <a href="https://t.me/proyato" target="_blank">
+  <a href="https://t.me/mokeydluf88" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d3yopoe7or2z26t574yywhk3gq&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/proyato/)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/mokeydluf88/)
